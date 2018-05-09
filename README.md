@@ -17,8 +17,10 @@ faster, with the potential to save many hundreds of lives annually.
 * CALCULATOR: A lots of useful web links to help your calculations.
 * TOOL: 
   * Location Service Converter: Convert CAN GNSS signals to readable LAT/LNG and vice versa.
-  ![LS Converter](ls-converter.PNG)
+  
+  ![LS Converter](ls-converter.png)
   * MSD History: Stores your MSD Decode history.
+  
   ![MSD History](msd-history.png)
 * HELP: GUIDE and ABOUT the program.
 
