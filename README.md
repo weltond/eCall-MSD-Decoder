@@ -14,18 +14,18 @@ faster, with the potential to save many hundreds of lives annually.
 
 ## Description
 ### Menu
-* CALCULATOR: A lots of useful web links to help your calculations.
-* TOOL: 
+* **CALCULATOR**: A lots of useful web links to help your calculations.
+* **TOOL**: 
   * Location Service Converter: Convert CAN GNSS signals to readable LAT/LNG and vice versa.
   
   ![LS Converter](ls-converter.png)
   * MSD History: Stores your MSD Decode history.
   
   ![MSD History](msd-history.png)
-* HELP: GUIDE and ABOUT the program.
+* **HELP**: GUIDE and ABOUT the program.
 
 ### MSD Entry Box
-An entry box where you can copy and paste the raw MSD data.
+An entry box where you can copy and paste the raw MSD data. Notice that you won't have to copy and paste the rest of 0s. The program will help you make them up automatically.
 
 ### Decode List Area
 A list box where shows detail values after decoding raw MSD data.
