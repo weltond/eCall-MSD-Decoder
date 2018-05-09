@@ -6,6 +6,7 @@ eCall is a pan-European in-vehicle emergency call system which uses the European
 number 112 over a cellular network in the event of an accident. An eCall can be placed manually, e.g., on
 the push of a button, or automatically upon detection of an emergency situation by the car's safety
 systems, e.g., due to airbag deployment.
+
 The Minimum Set of Data (MSD) contains vehicle information such as location, vehicle
 identification number, etc. The expected benefit is that emergency services will be made aware of
 accidents rapidly, will get precise location information and therefore will be able to reach accident victims
