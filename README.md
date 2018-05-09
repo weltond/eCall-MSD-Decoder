@@ -12,4 +12,24 @@ identification number, etc. The expected benefit is that emergency services will
 accidents rapidly, will get precise location information and therefore will be able to reach accident victims
 faster, with the potential to save many hundreds of lives annually. 
 
+## Description
+### Menu
+* CALCULATOR: A lots of useful web links to help your calculations.
+* TOOL: 
+  * Location Service Converter: Convert CAN GNSS signals to readable LAT/LNG and vice versa.
+  ![LS Converter](ls-converter.PNG)
+  * MSD History: Stores your MSD Decode history.
+  ![MSD History](msd-history.png)
+* HELP: GUIDE and ABOUT the program.
+
+### MSD Entry Box
+An entry box where you can copy and paste the raw MSD data.
+
+### Decode List Area
+A list box where shows detail values after decoding raw MSD data.
+
+### Operation Buttons
+Two buttons: Decode raw MSD data and clear everything.
+
 ## GUI
+![MSD Decoder GUI](msd-decoder-gui.png)
